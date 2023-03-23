@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.first-button {
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6)
+}
+
+.first-button:hover {
+    color: blue
+}
+
+.containerForMyColor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+}
